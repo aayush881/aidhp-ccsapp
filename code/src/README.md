@@ -1,3 +1,2 @@
-## Delete this file
-
-Instead place your source files here
+# GenAI-App-recommender-system
+An app recommender system enhanced using GenAI to help personalize users recommendations based on search query
